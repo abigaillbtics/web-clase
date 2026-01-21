@@ -1,0 +1,14 @@
+body{
+    background-color:#305E88;
+}
+h1{
+        front-family:arial;
+        front-size: 45px;
+        color:purple;
+}
+#pepe{
+      whidth: 220px;
+      height: 220px;
+      border-radius:50%;
+      border: 2px solid #C21EC2;
+}

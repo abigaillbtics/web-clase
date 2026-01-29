@@ -1,0 +1,50 @@
+body{
+    background-color:#305E88;
+}
+h1{
+        front-family:arial;
+        front-size: 45px;
+        color:purple;
+        text-align:center;
+}
+h2, h3, p{
+         text-align:center;
+}
+img{
+   display: block;
+   margin: 0 auto;
+}
+#pepe{
+      whidth: 220px;
+      height: 220px;
+      border-radius:10%;
+      border: 2px solid #ffh000;
+}
+button{
+      display: block;
+      margin: 0 auto;
+      color:black;
+      background-color: #ffh000;
+      padding: 15px 32px;
+}
+#pepe:hover {
+  box-shadow: 0 0 2px 1px blue;
+ transform: scale(1.5);
+}
+button:hover{
+ background-color:red;
+}  
+#tabla1 tr:hover {
+	background-color: pink;                                                   
+}
+.noticias {
+ border: 5px ridge #0C0018;
+ background-color: #D9D7DE;
+ padding: 2px;
+ display: flex;
+ flex-direction: column;
+}
+.noticias p {
+ font-family: fantasy;
+text-align: center;
+} 
